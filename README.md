@@ -10,7 +10,7 @@ This component is made with plan HTML and CSS, using custom variables for design
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code.mananqayas.com/)
+- Live Site URL: [Add live site URL here](https://social-links.mananqayas.com/)
 
 ## My process
 
