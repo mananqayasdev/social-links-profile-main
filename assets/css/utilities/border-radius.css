@@ -1,0 +1,6 @@
+rounded-s {
+  border-radius: var(--border-radius-1);
+}
+rounded-md {
+  border-radius: var(--border-radius-2);
+}

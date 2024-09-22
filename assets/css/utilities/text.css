@@ -1,0 +1,12 @@
+.text-preset-1 {
+  font-size: var(--fs-1);
+  font-weight: var(--fw-semibold);
+}
+.text-preset-2 {
+  font-size: var(--fs-2);
+  font-weight: var(--fw-regular);
+}
+.text-preset-2-bold {
+  font-size: var(--fs-2);
+  font-weight: var(--fw-bold);
+}

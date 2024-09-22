@@ -1,0 +1,13 @@
+.button {
+  border: none;
+  background: var(--clr-grey-700);
+  color: var(--clr-white);
+  min-width: 100%;
+  border-radius: var(--border-radius-1);
+}
+.button:hover {
+  background: var(--clr-green);
+  color: var(--clr-grey-700);
+  cursor: pointer;
+  transition: color var(--transition);
+}
