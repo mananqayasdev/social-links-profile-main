@@ -3,3 +3,7 @@ body {
   background-color: var(--clr-grey-900);
   color: var(--clr-white);
 }
+ul {
+  list-style: none;
+  min-width: 100%;
+}
